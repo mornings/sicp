@@ -2,19 +2,19 @@ Just a planning document for the landing page. This will go away eventually.
 
 —
 
-Information Architecture:
+_Information Architecture:_
 
-### Image
+1. Header Image
 
-### Quote
+2. 
 
-Just a quote about the book from _The New Hacker's Dictionary_
+Just a quote about the book from 'The New Hacker's Dictionary'
 
-### Intro
+3. Intro
 
 'This site is a companion to the influential computer-science text...'
 
-### Links
+4. Links
 
 - Full text
 - Sample Programming Assignments
@@ -25,6 +25,6 @@ Just a quote about the book from _The New Hacker's Dictionary_
 - A note on our cource at MIT
 - Schools using SICP
 
-### Contact
+5. Contact
 
-### Last modified
+6. Last modified
